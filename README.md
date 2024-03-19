@@ -129,8 +129,6 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![Screenshot 2024-03-18 155026](https://github.com/tharunkumaran2006/slot/assets/151625188/5a378063-2918-4b1d-b242-8c919bcfa418)
-![Screenshot 2024-03-18 155053](https://github.com/tharunkumaran2006/slot/assets/151625188/73de67ac-2175-4eda-a8af-a8ca046e3320)
 
 
 ## RESULT
